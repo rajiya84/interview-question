@@ -1,0 +1,25 @@
+Q.1. Explain the ternary operator in python.
+Q.2. What is the pas statement in python?
+Q.3. Explain help() and dir() functions in python.
+Q.4. How does a function return values?
+Q.5. Explain the //,% and ** operators in python.
+Q.6. What do you know about relational operators in python.
+Q.7. Explain logical operators in python.
+Q.8. What data types does python support?
+Q.9. What is a function?
+Q.10. What does the function zip() do?
+Q.11. What is a lambda function?
+Q.12. Write a program to print multiplication table of a given number.
+Q.13. What is a Python For loop?
+Q.14. Python For Loop Syntax.
+Q.15. What is Range() Function?
+Q.16. Write the syntex of simple if statement.
+Q.17. Write the output of the following 
+        if a=9
+           if (a>5 and a<=10):
+              print("hello")
+           else:
+               print("bye")
+Q.18. Which conditional statements are available in python?
+Q.19. What are the immutable builtin datatypes available?
+Q.20. Explain nesting if-else statement in python.
